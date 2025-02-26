@@ -2,6 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/726e3d34-290f-494a-8085-2919b6d1fa61)
 
+![Uploading image.png…]()
+
+
 
 Objective
 The primary goal of this project is to analyze Instagram user data to understand user behavior, engagement patterns, and content performance. By leveraging these insights, businesses and influencers can optimize their Instagram strategies to increase engagement, grow their follower base, and enhance their online presence.
