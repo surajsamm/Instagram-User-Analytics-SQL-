@@ -1,4 +1,4 @@
-# Instagram-User-Analytics-TRAINITY-
+# Instagram-User-Analytics-SQL-
 
 ![image](https://github.com/user-attachments/assets/726e3d34-290f-494a-8085-2919b6d1fa61)
 
